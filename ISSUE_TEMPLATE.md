@@ -1,0 +1,1 @@
+This issue repository is for tracking technical issues and not for user troubleshooting. If you are looking for assistance with Blish HUD, please reach out in our Discord channel: https://link.blishhud.com/discordhelp
